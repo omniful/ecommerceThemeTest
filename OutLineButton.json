@@ -1,0 +1,24 @@
+{
+  "identifier":"outline_button",
+   "background_color":{
+    "color":"#fffff",
+    "opacity":0.8
+  },
+  "contentInset":{
+    "top":10,
+    "bottom":10,
+    "left":10,
+    "right":10
+  },
+  "border_width":1,
+  "border_color":{
+    "color":"#fffff",
+    "opacity":0.8
+  },
+  "corner_radius":{
+    "top_right":10,
+    "top_left":10,
+    "bottom_right":10,
+    "bottom_left":10
+  }
+}
