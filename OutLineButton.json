@@ -1,7 +1,7 @@
 {
   "identifier":"outline_button",
    "background_color":{
-    "color":"#fffff",
+    "color":"#fca503",
     "opacity":0.8
   },
   "contentInset":{
